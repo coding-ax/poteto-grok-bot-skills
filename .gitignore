@@ -1,0 +1,9 @@
+# 渲染产物和原始截图别提交
+*.png
+!docs/**/*.png
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.env
+*.log
