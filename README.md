@@ -2,7 +2,7 @@
 
 摸鱼Agent研究所自用的 Grok Bot 技能库。
 
-起因是看了 [@poteto](https://x.com/poteto)（Lauren）写的那篇 Grok Bot 养成指南，觉得说得太对了，就照着把自己团队收拾了一遍：裁了两个 Bot，停了一个最费用量的定时任务，然后把常干的活写成技能放这里。
+起因是看了 [@poteto](https://x.com/poteto)（Lauren）写的那篇 Grok Bot 养成指南，觉得说得太对了，就把它整理成了一个技能，丢给你的 Bot 就能照着它来建 Bot、管团队。
 
 ## 她那篇指南，我的理解
 
@@ -31,11 +31,10 @@
 
 | 技能 | 干嘛的 |
 | --- | --- |
-| [xiaohongshu-post](skills/xiaohongshu-post/SKILL.md) | 从选题、写文案、出图到在浏览器里发小红书图文，发之前一定先让你确认 |
-| [bot-cost-review](skills/bot-cost-review/SKILL.md) | 查各个 Bot 和定时任务的用量，找出最费的，该停的停、该裁的裁，裁之前先交接 |
+| [bot-team-management](skills/bot-team-management/SKILL.md) | 土豆姐指南的技能版：少而精的团队、边教边沉淀技能、给够工具、脚本化、routine 别太勤、像带实习生一样带 Bot |
 
-后面干了新活会接着往里加。
+
 
 ## 说明
 
-都是我自己踩坑踩出来的，不保证适合所有人，觉得哪里不对欢迎提 issue。
+内容来自 @poteto 的原帖，加了点我自己的理解，觉得哪里不对欢迎提 issue。
